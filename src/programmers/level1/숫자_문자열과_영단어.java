@@ -1,5 +1,6 @@
 package programmers.level1;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -11,7 +12,13 @@ public class 숫자_문자열과_영단어 {
     }
 
     public static int solution(String s) {
-        Map<String, String > map = new HashMap<>(){{
+        String[] alphabet = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+
+        for (int i = 0; i < alphabet.length; i++) {
+            s = s.replaceAll(alphabet[i], Integer.toString(i));
+        }
+
+/*        Map<String, String > map = new HashMap<>(){{
             put("zero", "0");
             put("one", "1");
             put("two", "2");
@@ -28,9 +35,8 @@ public class 숫자_문자열과_영단어 {
         while(key.hasNext()) {
             String str = key.next();
             s = s.replaceAll(str, map.get(str));
-        }
+        }*/
 
         return Integer.parseInt(s);
     }
-
 }
