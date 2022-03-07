@@ -8,6 +8,7 @@ public class 신고_결과_받기 {
         String[] report = {"ryan con", "ryan con", "ryan con", "ryan con"};
         int k = 3;
 
+
         solution(id_list, report, k);
     }
 
