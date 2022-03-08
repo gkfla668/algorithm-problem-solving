@@ -39,8 +39,8 @@ public class 크레인_인형_뽑기_게임 {
             }
         }
 
-        System.out.println("<바구니> : " + basket);
-        System.out.println("터져서 사라진 인형의 개수 : " + answer);
+//        System.out.println("<바구니> : " + basket);
+//        System.out.println("터져서 사라진 인형의 개수 : " + answer);
         return answer;
     }
 }
