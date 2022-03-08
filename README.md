@@ -9,3 +9,4 @@
 * [크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 * [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
+* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
