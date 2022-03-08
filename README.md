@@ -8,3 +8,4 @@
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) >> 보류: 제출 후 채점하기 일부 실패
 * [크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
+* [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
