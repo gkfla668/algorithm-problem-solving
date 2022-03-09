@@ -10,3 +10,4 @@
 * [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 * [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
 * [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+* [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
