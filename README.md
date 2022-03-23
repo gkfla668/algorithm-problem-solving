@@ -16,4 +16,11 @@
 * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) `탐욕법`
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
-*
+* [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
+* [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+* [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+* [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
+* [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
+* [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
+* [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+* [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) >> 더 좋은 알고리즘 생각하기
