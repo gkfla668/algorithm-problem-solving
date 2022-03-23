@@ -9,10 +9,11 @@
 * [크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 * [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
-* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) `해시` 
 * [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) >> 보류
 * [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
-* [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
-* [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+* [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) `정렬`
+* [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) `탐욕법`
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+*
