@@ -34,7 +34,7 @@
 * [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 
 ##### <보류>
-* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
 * [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 * [모의고사]()
 * [2016년]()
