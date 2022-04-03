@@ -34,6 +34,7 @@
 * [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 * [직사각형 별 찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
 * [최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) >> 더 좋은 알고리즘 생각
+* [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
@@ -43,5 +44,4 @@
 * [시저 암호]()
 * [이상한 문자 만들기]()
 * [정수 내림차순으로 배치하기]()
-* [평균 구하기]()
 
