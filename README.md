@@ -36,6 +36,7 @@
 * [최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) >> 더 좋은 알고리즘 생각
 * [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 * [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) 
+* [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
