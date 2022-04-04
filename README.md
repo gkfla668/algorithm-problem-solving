@@ -48,3 +48,6 @@
 * [이상한 문자 만들기]()
 * [정수 내림차순으로 배치하기]()
 * [1차 다트게임]()
+
+#### Level 1
+* [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
