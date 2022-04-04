@@ -37,6 +37,7 @@
 * [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 * [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) 
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+* [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
@@ -46,4 +47,4 @@
 * [시저 암호]()
 * [이상한 문자 만들기]()
 * [정수 내림차순으로 배치하기]()
-
+* [1차 다트게임]()
