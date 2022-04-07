@@ -1,5 +1,5 @@
 # Algorithm-Problem-Solving-Programmers
-#### Level 1
+### Level 1
 * [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 * [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 * [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
@@ -49,7 +49,8 @@
 * [정수 내림차순으로 배치하기]()
 * [1차 다트게임]()
 
-#### Level 2
+### Level 2
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 * [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586) `스택/큐`
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시`
+* [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시` // 이해하기
