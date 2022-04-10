@@ -54,3 +54,4 @@
 * [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586) `스택/큐`
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시`
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시` // 이해하기
+* [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
