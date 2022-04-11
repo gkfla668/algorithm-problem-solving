@@ -10,7 +10,7 @@
 * [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) `해시` 
 * [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 * [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) `정렬`
-* [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) `탐욕법`
+* [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) `탐욕법(Greedy)`
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
 * [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
@@ -55,3 +55,4 @@
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시`
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시` // 이해하기
 * [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
+* [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) `탐욕법(Greedy)`
