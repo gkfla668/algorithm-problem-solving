@@ -58,3 +58,4 @@
 * [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) `탐욕법(Greedy)`
 * [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) `탐욕법(Greedy), deque`
 * [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) `스택/큐, PriorityQueue` 
+* [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐`
