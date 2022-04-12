@@ -38,11 +38,11 @@
 * [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) 
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 * [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+* [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) `완전 탐색`
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
 * [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
-* [모의고사]()
 * [2016년]()
 * [시저 암호]()
 * [이상한 문자 만들기]()
