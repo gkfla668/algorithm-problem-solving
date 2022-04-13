@@ -61,3 +61,4 @@
 * [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 스택 방식 이해하기
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) `힙(Heap)`
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
+* [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), 재귀`
