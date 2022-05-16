@@ -39,6 +39,7 @@
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
 * [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 * [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) `완전 탐색`
+* [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
@@ -46,7 +47,6 @@
 * [2016년]()
 * [시저 암호]()
 * [이상한 문자 만들기]()
-* [정수 내림차순으로 배치하기]()
 * [1차 다트게임]()
 
 ### Level 2
