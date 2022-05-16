@@ -48,6 +48,8 @@
 * [시저 암호]()
 * [이상한 문자 만들기]()
 * [1차 다트게임]()
+* [소수 찾기]
+* [3진법 뒤집기]
 
 ### Level 2
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
@@ -63,3 +65,4 @@
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
 * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), 재귀`
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java)
+* [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
