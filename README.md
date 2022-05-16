@@ -66,3 +66,4 @@
 * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), 재귀`
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java)
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
+* [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
