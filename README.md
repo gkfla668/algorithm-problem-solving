@@ -67,3 +67,4 @@
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java)
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
 * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+* [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
