@@ -48,8 +48,8 @@
 * [시저 암호]()
 * [이상한 문자 만들기]()
 * [1차 다트게임]()
-* [소수 찾기]
-* [3진법 뒤집기]
+* [소수 찾기]()
+* [3진법 뒤집기]()
 
 ### Level 2
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
@@ -68,3 +68,4 @@
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
 * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
+* [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
