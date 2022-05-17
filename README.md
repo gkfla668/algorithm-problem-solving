@@ -40,6 +40,7 @@
 * [나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 * [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) `완전 탐색`
 * [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
@@ -48,7 +49,6 @@
 * [시저 암호]()
 * [이상한 문자 만들기]()
 * [1차 다트게임]()
-* [소수 찾기]()
 * [3진법 뒤집기]()
 
 ### Level 2
