@@ -43,10 +43,10 @@
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
 * [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
 * [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
+* [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
-* [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 * [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
