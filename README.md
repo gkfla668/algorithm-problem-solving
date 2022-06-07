@@ -69,9 +69,10 @@
 * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
+* [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) `정렬`
+
 
 ##### <보류>
-* [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 * [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
