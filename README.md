@@ -47,9 +47,9 @@
 ##### <보류>
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
 * [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
-* [2016년]()
-* [1차 다트게임]()
-* [3진법 뒤집기]()
+* [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+* [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+* [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 
 ### Level 2
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
@@ -63,9 +63,15 @@
 * [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 스택 방식 이해하기
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) `힙(Heap)`
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
-* [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), 재귀`
+* [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), dfs 재귀`
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java)
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
 * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
+
+##### <보류>
+* [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+* [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
