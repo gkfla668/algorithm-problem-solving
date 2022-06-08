@@ -20,7 +20,7 @@
 * [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)
 * [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
 * [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
-* [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) >> 더 좋은 알고리즘 생각
+* [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) // 더 좋은 알고리즘 생각
 * [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
 * [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)
 * [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
@@ -33,7 +33,7 @@
 * [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)
 * [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)
 * [직사각형 별 찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
-* [최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) >> 더 좋은 알고리즘 생각
+* [최대 공약수와 최소 공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) // 더 좋은 알고리즘 생각
 * [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 * [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) 
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
@@ -54,15 +54,16 @@
 ### Level 2
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 * [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586) `스택/큐`
+* [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) `스택/큐, PriorityQueue` 
+* [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 스택 방식 이해하기
+* [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
+* [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) `스택`
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시`
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시` // 이해하기
 * [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 * [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) `탐욕법(Greedy)`
 * [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) `탐욕법(Greedy), Deque`
-* [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) `스택/큐, PriorityQueue` 
-* [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 스택 방식 이해하기
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) `힙(Heap)`
-* [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
 * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), dfs 재귀`
 * [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java)
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
@@ -71,7 +72,6 @@
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
 * [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) `정렬`
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) `완전탐색`
-* [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) `스택`
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `bottom-up 반복문` // top-down은 재귀
 
 ##### <보류>
