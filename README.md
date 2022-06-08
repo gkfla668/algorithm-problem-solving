@@ -71,8 +71,13 @@
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
 * [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) `정렬`
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) `완전탐색`
-
+* [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) `스택`
 
 ##### <보류>
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+* [문자열 압축]()
+* [멀쩡한 사각형]()
+* [124 나라의 숫자]()
+* [괄호 변환]()
+* [피보나치 수]()
