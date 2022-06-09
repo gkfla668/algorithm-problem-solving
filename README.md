@@ -59,8 +59,8 @@
 * [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 스택 방식 이해하기
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
 * [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) `스택`
-* [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시`
-* [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시` // 이해하기
+* [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시 / startWith`
+* [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시, map` // 이해하기
 * [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 * [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) `탐욕법(Greedy)`
 * [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) `탐욕법(Greedy), Deque`
@@ -75,7 +75,7 @@
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) `완전탐색`
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `DP, bottom-up 반복문` // top-down은 재귀
 #### KAKAO
-* [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `map`
+* [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
 
 ##### <보류>
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
