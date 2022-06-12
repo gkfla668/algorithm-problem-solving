@@ -1,20 +1,20 @@
 # Algorithm-Problem-Solving-Programmers
 ### Level 1
 * [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) `해시, map`
-* [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
+* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) `해시, map` 
+* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) `해시, map`
+* [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) `해시, set / stream 사용`
 * [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 * [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
-* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) `해시, map` 
 * [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 * [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) `정렬`
 * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) `탐욕법(Greedy)`
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) `stream 사용`
-* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) `해시, map`
-* [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
-* [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) `해시, set / stream 사용`
-* [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 * [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) `stream 사용`
 * [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) `stream 사용`
+* [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) `stream 사용, filter`
+* [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
+* [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 * [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)
 * [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 * [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) // 더 좋은 알고리즘 생각해서 리팩토링 하기
@@ -23,7 +23,6 @@
 * [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
 * [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)
 * [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)
-* [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) `stream 사용, filter`
 * [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)
 * [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)
 * [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)
@@ -42,8 +41,8 @@
 * [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
 #### KAKAO
 * [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) `해시, set + map`
-* [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
 * [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) `해시, map`
+* [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410?language=java)
 * [크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) `toBinaryString`
 * [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) `스택으로 풀어보기`
@@ -52,13 +51,16 @@
 * [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
 * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+
 * * *
+
 ### Level 2
 * [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586) `스택/큐`
 * [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) `스택/큐, PriorityQueue` 
-* [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 스택 방식 이해하기
+* [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) `스택/큐` // 이해하기
 * [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) `스택/큐, Queue`
 * [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) `스택`
+* [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java) `스택`
 * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) `해시 / startWith`
 * [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) `해시, map` // 이해하기
 * [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
@@ -66,12 +68,11 @@
 * [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) `탐욕법(Greedy), Deque`
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) `힙(Heap)`
 * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), dfs 재귀`
-* [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909?language=java) `스택`
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) `정렬`
 * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) `정렬`
-* [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) `bitCount`
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
 * [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) `정렬`
+* [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) `bitCount`
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) `완전탐색`
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `DP, bottom-up 반복문` // top-down은 재귀
 #### KAKAO
