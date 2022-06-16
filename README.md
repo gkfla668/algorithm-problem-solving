@@ -81,7 +81,7 @@
 ##### <보류>
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 * [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
-* [문자열 압축]()
+* [문자열 압축]() // KAKAO
 * [멀쩡한 사각형]()
 * [124 나라의 숫자]()
-* [괄호 변환]()
+* [괄호 변환]() // KAKAO
