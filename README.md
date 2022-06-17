@@ -79,9 +79,13 @@
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
 
 ##### <보류>
-* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
-* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색`
+* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) `탐욕법(Greedy)`
 * [문자열 압축]() // KAKAO
 * [멀쩡한 사각형]()
 * [124 나라의 숫자]()
 * [괄호 변환]() // KAKAO
+* [N개의 최소공배수]()
+* [JadenCase 문자열 만들기]()
+* [행렬의 곱셈]()
+* [숫자의 표현]()
