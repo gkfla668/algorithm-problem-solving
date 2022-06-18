@@ -48,7 +48,7 @@
 * [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) `스택으로 풀어보기`
 
 ##### <보류>
-* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색`
+* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색` // KAKAO
 * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 
@@ -75,6 +75,7 @@
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) `bitCount`
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) `완전탐색`
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `DP, bottom-up 반복문` // top-down은 재귀
+* [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
 #### KAKAO
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
 
@@ -85,7 +86,6 @@
 * [멀쩡한 사각형]()
 * [124 나라의 숫자]()
 * [괄호 변환]() // KAKAO
-* [N개의 최소공배수]()
 * [JadenCase 문자열 만들기]()
 * [행렬의 곱셈]()
 * [숫자의 표현]()
