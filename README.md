@@ -46,9 +46,9 @@
 * [크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) `toBinaryString`
 * [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) `스택으로 풀어보기`
+* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색, 맨해튼 공식`
 
 ##### <보류>
-* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색` // KAKAO
 * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 * [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
 
