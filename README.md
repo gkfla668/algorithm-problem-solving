@@ -46,7 +46,7 @@
 * [크레인 인형 뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) 
 * [1차 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) `toBinaryString`
 * [1차 다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) `스택으로 풀어보기`
-* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색, 맨해튼 공식`
+* [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) `완전 탐색, 맨해튼 거리`
 
 ##### <보류>
 * [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
@@ -76,12 +76,13 @@
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) `완전탐색`
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `DP, bottom-up 반복문` // top-down은 재귀
 * [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
+* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) `탐욕법(Greedy)`
+
 #### KAKAO
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
 
 ##### <보류>
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색`
-* [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) `탐욕법(Greedy)`
 * [문자열 압축]() // KAKAO
 * [멀쩡한 사각형]()
 * [124 나라의 숫자]()
