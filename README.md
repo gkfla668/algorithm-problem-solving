@@ -77,12 +77,12 @@
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `DP, bottom-up 반복문` // top-down은 재귀
 * [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
 * [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) `탐욕법(Greedy)`
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색, dfs`
 
 #### KAKAO
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
 
 ##### <보류>
-* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색`
 * [문자열 압축]() // KAKAO
 * [멀쩡한 사각형]()
 * [124 나라의 숫자]()
