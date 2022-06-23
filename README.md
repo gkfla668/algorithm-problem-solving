@@ -67,7 +67,7 @@
 * [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) `탐욕법(Greedy)`
 * [구명 보트](https://programmers.co.kr/learn/courses/30/lessons/42885) `탐욕법(Greedy), Deque`
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) `힙(Heap)`
-* [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), dfs 재귀`
+* [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) `깊이/너비 우선 탐색(DFS/BFS), DFS`
 * [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) `정렬`
 * [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) `정렬`
 * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) `정렬`
@@ -77,12 +77,13 @@
 * [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) `DP, bottom-up 반복문` // top-down은 재귀
 * [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
 * [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) `탐욕법(Greedy)`
-* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색, 순열, dfs로 해결`
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색, 순열, DFS 해결`
 * [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) // 수학적 규칙 이해 필요
 * [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
 
 #### KAKAO
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
+* [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) `DFS`
 
 ##### <보류>
 * [문자열 압축]() // KAKAO
@@ -94,4 +95,4 @@
 * * *
 
 ### Level 3
-* [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) `깊이/너비 우선 탐색(DFS/BFS), dfs`
+* [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) `깊이/너비 우선 탐색(DFS/BFS), DFS`
