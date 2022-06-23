@@ -31,5 +31,5 @@ public class 기능_개발 {
         list.add(daysQueue.size());
 
         return list.stream().mapToInt(Integer::intValue).toArray();
-    }
+}
 }
