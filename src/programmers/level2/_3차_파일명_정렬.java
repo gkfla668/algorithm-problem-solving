@@ -35,21 +35,16 @@ public class _3차_파일명_정렬 {
         }
 
         Arrays.sort(arr, (o1, o2) -> {
-            if (o1[0].equalsIgnoreCase(o2[0])) { // HEAD 같음
-                if (Integer.parseInt(o1[1]) == Integer.parseInt(o2[1])) // NUMBER 같음
-                    return 0;
-                else
-                    return Integer.parseInt(o1[1]) - Integer.parseInt(o2[1]);
-            } else {
+            if (o1[0].equalsIgnoreCase(o2[0])) // HEAD 같음
+                return Integer.parseInt(o1[1]) - Integer.parseInt(o2[1]); // NUMBER가 같은 경우나 안같은 경우 둘다 NUMBER 기준으로 정렬
+            else
                 return o1[0].compareToIgnoreCase(o2[0]);
-            }
         });
 
         for (int i = 0; i < arr.length; i++) {
             StringBuilder str = new StringBuilder();
-            for (int j = 0; j < arr[i].length; j++) {
+            for (int j = 0; j < arr[i].length; j++)
                 str.append(arr[i][j]);
-            }
             answer[i] = str.toString();
         }
 
