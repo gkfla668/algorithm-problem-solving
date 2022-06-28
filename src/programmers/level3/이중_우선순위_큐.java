@@ -17,27 +17,25 @@ public class 이중_우선순위_큐 {
 
             if (str[0].equals("I")) {
                 int num = Integer.parseInt(str[1]);
-                ;
                 treeMap.put(num, treeMap.getOrDefault(num, 0) + 1);
             } else {
-                int num;
                 if (treeMap.size() == 0) continue;
-                if (str[1].equals("1"))
-                    num = treeMap.lastKey();
-                else
-                    num = treeMap.firstKey();
 
-                if (treeMap.get(num) - 1 == 0) {
-                    treeMap.put(num, treeMap.get(num) - 1);
+                int num = (str[1].equals("1")) ? treeMap.lastKey() : treeMap.firstKey();
+                int cnt = treeMap.get(num);
+
+                if (cnt == 1) {
                     treeMap.remove(num);
+                    continue;
                 }
+                treeMap.put(num, cnt - 1);
             }
         }
 
         int[] answer = new int[2];
         if (treeMap.size() != 0) {
-            answer[0] = treeMap.firstKey();
-            answer[1] = treeMap.lastKey();
+            answer[0] = treeMap.lastKey();
+            answer[1] = treeMap.firstKey();
         }
 
         return answer;
