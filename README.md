@@ -80,6 +80,7 @@
 * [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) `완전탐색, 순열, DFS 해결`
 * [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) // 수학적 규칙 이해 필요
 * [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951)
+* [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) `BFS`
 
 #### KAKAO
 * [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) `해시, map`
