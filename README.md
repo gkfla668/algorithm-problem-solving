@@ -99,3 +99,4 @@
 ### Level 3
 * [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) `깊이/너비 우선 탐색(DFS/BFS), DFS`
 * [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) 두가지 방식 1. `TreeMap` 2. `PriorityQueue - remove: 특정 값 삭제`
+* [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) `BFS` 8,9번 시간초괴
