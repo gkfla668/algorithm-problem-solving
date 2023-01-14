@@ -1,14 +1,14 @@
-# ✍️ Algorithm-Problem-Solving-Programmers 👩‍💻👩‍💻👩‍💻👩‍💻👩‍💻
+# ✍️ Algorithm-Problem-Solving-Programmers 👩‍💻👩‍💻👩‍💻
 
 ## `JavaScript`
+### Level 0️⃣
 |문제|문제풀이|비고|
 |---|---|---|
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [분수의 덧셈.js](src/programmers/javascript/level0/분수의_덧셈.js) | 최대 공약수
 
----
 
 ## `Java`
-### Level 1
+### Level 1️⃣
 |문제|문제풀이|비고|
 |---|---|---|
 |[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)| [로또의 최고 순위와 최저 순위.java](src/programmers/java/level1/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0_%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80_%EC%88%9C%EC%9C%84.java) |`해시, map`
@@ -68,7 +68,7 @@
 
 * * *
 
-### Level 2
+### Level 2️⃣
 |문제|문제풀이|비고|
 |---|---|---|
 |[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| [기능 개발.java](src/programmers/java/level2/%EA%B8%B0%EB%8A%A5_%EA%B0%9C%EB%B0%9C.java)| `스택/큐`
@@ -114,7 +114,7 @@
 
 * * *
 
-### Level 3
+### Level 3️⃣
 |문제|문제풀이|비고|
 |---|---|---|
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |[네트워크.java](src/programmers/java/level3/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java) |`깊이/너비 우선 탐색(DFS/BFS), DFS`
