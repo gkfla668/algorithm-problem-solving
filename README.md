@@ -13,6 +13,7 @@
 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) | [중복된 문자 제거.js](src/programmers/javascript/level0/중복된_문자_제거.js)
 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [OX퀴즈.js](src/programmers/javascript/level0/OX퀴즈.js)
 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.js](src/programmers/javascript/level0/다항식_더하기.js) | 리팩토링 필요
+| [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.js](src/programmers/javascript/level0/짝수_홀수_개수.js)
 
 ## `Java`
 
