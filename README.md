@@ -10,6 +10,7 @@
 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [가장 큰 수 찾기.js](src/programmers/javascript/level0/가장_큰_수_찾기.js) |
 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [문자열 정렬하기 (1).js](src/programmers/javascript/level0/문자열_정렬하기_(1).js)
 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.js](src/programmers/javascript/level0/최빈값_구하기.js)
+| [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) | [중복된 문자 제거.js](src/programmers/javascript/level0/중복된_문자_제거.js)
 
 ## `Java`
 
