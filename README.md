@@ -9,6 +9,7 @@
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)     | [분수의 덧셈.js](src/programmers/javascript/level0/분수의_덧셈.js)         | 최대 공약수 |
 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [가장 큰 수 찾기.js](src/programmers/javascript/level0/가장_큰_수_찾기.js) |
 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [문자열 정렬하기 (1).js](src/programmers/javascript/level0/문자열_정렬하기_(1).js)
+| [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.js](src/programmers/javascript/level0/최빈값_구하기.js)
 
 ## `Java`
 
