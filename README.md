@@ -4,7 +4,7 @@
 
 ### Level 0️⃣
 
-| 문제                                                                                | 문제풀이                                                                   | 비고        |
+|  문제           | 문제풀이                                                                   | 비고        |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)     | [분수의 덧셈.js](src/programmers/javascript/level0/분수의_덧셈.js)         | 최대 공약수 |
 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [가장 큰 수 찾기.js](src/programmers/javascript/level0/가장_큰_수_찾기.js) |
@@ -14,6 +14,12 @@
 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [OX퀴즈.js](src/programmers/javascript/level0/OX퀴즈.js)
 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.js](src/programmers/javascript/level0/다항식_더하기.js) | 리팩토링 필요
 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.js](src/programmers/javascript/level0/짝수_홀수_개수.js)
+
+
+### Level 1️⃣
+|문제|문제풀이|비고|
+|----|-------|----|
+|[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크키가 작은 부분문자열.js](src/programmers/javascript/level1/크기가_작은_부분문자열.js) |
 
 ## `Java`
 
