@@ -21,7 +21,8 @@
 |----|-------|----|
 |[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분문자열.js](src/programmers/javascript/level1/크기가_작은_부분문자열.js) |
 |[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](src/programmers/javascript/level1/가장_가까운_같은_글자.js) |
-|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도](src/programmers/javascript/level1/1차_비밀_지도.js) |
+|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도.js](src/programmers/javascript/level1/1차_비밀_지도.js) |
+|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](src/programmers/javascript/level1/숫자_문자열과_영단어.js) |
 
 ## `Java`
 
