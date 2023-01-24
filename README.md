@@ -19,7 +19,8 @@
 ### Level 1️⃣
 |문제|문제풀이|비고|
 |----|-------|----|
-|[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크키가 작은 부분문자열.js](src/programmers/javascript/level1/크기가_작은_부분문자열.js) |
+|[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분문자열.js](src/programmers/javascript/level1/크기가_작은_부분문자열.js) |
+|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](src/programmers/javascript/level1/가장_가까운_같은_글자.js) |
 
 ## `Java`
 
