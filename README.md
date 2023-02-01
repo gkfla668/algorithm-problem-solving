@@ -35,6 +35,11 @@
 |----|-------|----|
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [게임 맵 최단거리.js](src/programmers/javascript/level2/게임_맵_최단거리.js) | BFS
 
+### Level 3️⃣
+|문제|문제풀이|비고|
+|----|-------|----|
+|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [네트워크.js](src/programmers/javascript/level3/네트워크.js) | DFS
+
 ## `Java` 
 ##### (2022.03.08 ~ 2022.06.30)
 
