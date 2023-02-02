@@ -28,6 +28,7 @@
 |[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=javascript) | [실패율.js](src/programmers/javascript/level1/실패율.js) |
 |[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=javascript) | [로또의 최고 순위와 최저 순위.js](src/programmers/javascript/level1/로또의_최고_순위와_최저_순위.js) |
 |[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [과일 장수.js](src/programmers/javascript/level1/과일_장수.js) |
+|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | [체육복.js](src/programmers/javascript/level1/체육복.js) | 리팩토링 필요
 
 
 ### Level 2️⃣
