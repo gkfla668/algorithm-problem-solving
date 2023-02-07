@@ -8,13 +8,13 @@
 |  문제           | 문제풀이                                                                   | 비고        |
 | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- |
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)     | [분수의 덧셈.js](src/programmers/javascript/level0/분수의_덧셈.js)         | 최대 공약수 |
-| [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [가장 큰 수 찾기.js](src/programmers/javascript/level0/가장_큰_수_찾기.js) |
-| [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [문자열 정렬하기 (1).js](src/programmers/javascript/level0/문자열_정렬하기_(1).js)
+| [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [가장 큰 수 찾기.js](src/programmers/javascript/level0/가장_큰_수_찾기.js) | `findIndex`
+| [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [문자열 정렬하기 (1).js](src/programmers/javascript/level0/문자열_정렬하기_(1).js) | `filter`
 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.js](src/programmers/javascript/level0/최빈값_구하기.js)
 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) | [중복된 문자 제거.js](src/programmers/javascript/level0/중복된_문자_제거.js)
 | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [OX퀴즈.js](src/programmers/javascript/level0/OX퀴즈.js)
 | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.js](src/programmers/javascript/level0/다항식_더하기.js) | 리팩토링 필요
-| [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.js](src/programmers/javascript/level0/짝수_홀수_개수.js)
+| [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.js](src/programmers/javascript/level0/짝수_홀수_개수.js) | `filter`
 
 
 ### Level 1️⃣
@@ -22,11 +22,11 @@
 |----|-------|----|
 |[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [크기가 작은 부분문자열.js](src/programmers/javascript/level1/크기가_작은_부분문자열.js) |
 |[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [가장 가까운 같은 글자.js](src/programmers/javascript/level1/가장_가까운_같은_글자.js) |
-|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도.js](src/programmers/javascript/level1/1차_비밀_지도.js) |
-|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](src/programmers/javascript/level1/숫자_문자열과_영단어.js) |
+|[[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [[1차] 비밀지도.js](src/programmers/javascript/level1/1차_비밀_지도.js) | `replaceAll` `padStart`
+|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [숫자 문자열과 영단어.js](src/programmers/javascript/level1/숫자_문자열과_영단어.js) | `replaceAll`
 |[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) | [푸드 파이트 대회.js](src/programmers/javascript/level1/푸드_파이트_대회.js) |
-|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=javascript) | [실패율.js](src/programmers/javascript/level1/실패율.js) |
-|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=javascript) | [로또의 최고 순위와 최저 순위.js](src/programmers/javascript/level1/로또의_최고_순위와_최저_순위.js) |
+|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=javascript) | [실패율.js](src/programmers/javascript/level1/실패율.js) | `filter`
+|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=javascript) | [로또의 최고 순위와 최저 순위.js](src/programmers/javascript/level1/로또의_최고_순위와_최저_순위.js) | `filter`
 |[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [과일 장수.js](src/programmers/javascript/level1/과일_장수.js) |
 |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | [체육복.js](src/programmers/javascript/level1/체육복.js) | 리팩토링 필요
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript) | [폰켓몬.js](src//programmers/javascript/level1/폰켓몬.js) | 해시
@@ -40,7 +40,7 @@
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [게임 맵 최단거리.js](src/programmers/javascript/level2/게임_맵_최단거리.js) | BFS
 | [위장](프로그래머스/lv2/42578. 위장/README.md) | [위장.js](프로그래머스/lv2/42578. 위장/위장.js) | 수학적 지식 필요, 이해 필요
 | [기능개발](프로그래머스/lv2/42586. 기능개발/README.md) | [기능개발.js](프로그래머스/lv2/42586. 기능개발/기능개발.js) | 리팩토링 필요
-| [올바른 괄호](프로그래머스/lv2/12909. 올바른 괄호/README.md) | [올바른 괄호.js](프로그래머스/lv2/12909. 올바른 괄호/올바른 괄호.js) |
+| [올바른 괄호](프로그래머스/lv2/12909. 올바른 괄호/README.md) | [올바른 괄호.js](프로그래머스/lv2/12909. 올바른 괄호/올바른 괄호.js) | 스택
 | [프린터](프로그래머스/lv2/42587. 프린터/README.md) | [프린터.js](프로그래머스/lv2/42587. 프린터/프린터.js) | `some` `findIndex`
 
 ### Level 3️⃣
