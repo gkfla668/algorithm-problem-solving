@@ -40,6 +40,7 @@
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [게임 맵 최단거리.js](src/programmers/javascript/level2/게임_맵_최단거리.js) | BFS
 | [위장](프로그래머스/lv2/42578. 위장/README.md) | [위장.js](프로그래머스/lv2/42578. 위장/위장.js) | 수학적 지식 필요, 이해 필요
 | [기능개발](프로그래머스/lv2/42586. 기능개발/README.md) | [기능개발.js](프로그래머스/lv2/42586. 기능개발/기능개발.js) | 리팩토링 필요
+| [올바른 괄호](프로그래머스/lv2/12909. 올바른 괄호/README.md) | [올바른 괄호.js](프로그래머스/lv2/12909. 올바른 괄호/올바른 괄호.js) |
 
 ### Level 3️⃣
 |문제|문제풀이|비고|
