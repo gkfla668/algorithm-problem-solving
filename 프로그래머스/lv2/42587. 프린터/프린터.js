@@ -10,7 +10,7 @@ function solution(priorities, location) {
     while(arr.length !== 0){
         target = arr.shift(); 
         
-        if(arr.filter((num) => num.priority > target.priority).length > 0){
+        if(arr.some((num) => num.priority > target.priority)){
             arr.push(target);
         }else {  
             queue.push(target); 
