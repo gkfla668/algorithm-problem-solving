@@ -8,3 +8,4 @@ function solution(s){
     
     return stackCnt === 0;
 }
+
