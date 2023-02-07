@@ -30,12 +30,15 @@
 |[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [과일 장수.js](src/programmers/javascript/level1/과일_장수.js) |
 |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | [체육복.js](src/programmers/javascript/level1/체육복.js) | 리팩토링 필요
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript) | [폰켓몬.js](src//programmers/javascript/level1/폰켓몬.js) | 해시
+| [완주하지 못한 선수](프로그래머스/lv1/42576. 완주하지 못한 선수/README.md) | [완주하지 못한 선수.js](프로그래머스/lv1/42576. 완주하지 못한 선수/완주하지 못한 선수.js) | 시간초과 주의
+| [같은 숫자는 싫어](프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md) | [같은 숫자는 싫어.js](프로그래머스/lv1/12906. 같은 숫자는 싫어/같은 숫자는 싫어.js) | 스택/큐 `filter`
 
 
 ### Level 2️⃣
 |문제|문제풀이|비고|
 |----|-------|----|
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [게임 맵 최단거리.js](src/programmers/javascript/level2/게임_맵_최단거리.js) | BFS
+| [위장](프로그래머스/lv2/42578. 위장/README.md) | [위장.js](프로그래머스/lv2/42578. 위장/위장.js) | 수학적 지식 필요, 이해 필요
 
 ### Level 3️⃣
 |문제|문제풀이|비고|
