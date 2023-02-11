@@ -4,7 +4,7 @@ function solution(s) {
     
     while(s.length !== 1){
         changeCnt++;
-        zeroCnt += [...s].filter((it) => it === '0').length;
+        zeroCnt += (s.match(/0/g) || []).length;
         s = s.replaceAll('0', "").length.toString(2);
     }
     
