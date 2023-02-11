@@ -1,5 +1,5 @@
 function solution(s) {
-    const numbers = s.split(' ').map((num) => Number(num));
+    const numbers = s.split(' ');
     
-    return [Math.min(...numbers), Math.max(...numbers)].join(" ");
+    return Math.min(...numbers) + " " + Math.max(...numbers);
 }
