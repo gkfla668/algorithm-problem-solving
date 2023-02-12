@@ -10,10 +10,10 @@
 | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)     | [분수의 덧셈.js](src/programmers/javascript/level0/분수의_덧셈.js)         | 최대 공약수 |
 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [가장 큰 수 찾기.js](src/programmers/javascript/level0/가장_큰_수_찾기.js) | `findIndex`
 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [문자열 정렬하기 (1).js](src/programmers/javascript/level0/문자열_정렬하기_(1).js) | `filter`
-| [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.js](src/programmers/javascript/level0/최빈값_구하기.js)
+| [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [최빈값 구하기.js](src/programmers/javascript/level0/최빈값_구하기.js) | `map` 중복 갯수 구하기
 | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888?language=javascript) | [중복된 문자 제거.js](src/programmers/javascript/level0/중복된_문자_제거.js)
-| [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [OX퀴즈.js](src/programmers/javascript/level0/OX퀴즈.js)
-| [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.js](src/programmers/javascript/level0/다항식_더하기.js) | 리팩토링 필요
+| [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [OX퀴즈.js](src/programmers/javascript/level0/OX퀴즈.js) | `eval` 📌
+| [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [다항식 더하기.js](src/programmers/javascript/level0/다항식_더하기.js) | 리팩토링 필요 📌
 | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [짝수 홀수 개수.js](src/programmers/javascript/level0/짝수_홀수_개수.js) | `filter`
 
 
@@ -28,20 +28,26 @@
 |[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889?language=javascript) | [실패율.js](src/programmers/javascript/level1/실패율.js) | `filter`
 |[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=javascript) | [로또의 최고 순위와 최저 순위.js](src/programmers/javascript/level1/로또의_최고_순위와_최저_순위.js) | `filter`
 |[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | [과일 장수.js](src/programmers/javascript/level1/과일_장수.js) |
-|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | [체육복.js](src/programmers/javascript/level1/체육복.js) | 리팩토링 필요
+|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862#) | [체육복.js](src/programmers/javascript/level1/체육복.js) | 리팩토링 필요 📌
 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript) | [폰켓몬.js](src//programmers/javascript/level1/폰켓몬.js) | 해시
 | [완주하지 못한 선수](프로그래머스/lv1/42576. 완주하지 못한 선수/README.md) | [완주하지 못한 선수.js](프로그래머스/lv1/42576. 완주하지 못한 선수/완주하지 못한 선수.js) | 시간초과 주의
-| [같은 숫자는 싫어](프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md) | [같은 숫자는 싫어.js](프로그래머스/lv1/12906. 같은 숫자는 싫어/같은 숫자는 싫어.js) | 스택/큐 `filter`
+| [같은 숫자는 싫어](프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md) | [같은 숫자는 싫어.js](프로그래머스/lv1/12906. 같은 숫자는 싫어/같은 숫자는 싫어.js) | 스택/큐,  `filter`
 
 
 ### Level 2️⃣
 |문제|문제풀이|비고|
 |----|-------|----|
 |[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=javascript) | [게임 맵 최단거리.js](src/programmers/javascript/level2/게임_맵_최단거리.js) | BFS
-| [위장](프로그래머스/lv2/42578. 위장/README.md) | [위장.js](프로그래머스/lv2/42578. 위장/위장.js) | 수학적 지식 필요, 이해 필요
-| [기능개발](프로그래머스/lv2/42586. 기능개발/README.md) | [기능개발.js](프로그래머스/lv2/42586. 기능개발/기능개발.js) | 리팩토링 필요
+| [위장](프로그래머스/lv2/42578. 위장/README.md) | [위장.js](프로그래머스/lv2/42578. 위장/위장.js) | 수학적 지식 필요, 이해 필요 📌
+| [기능개발](프로그래머스/lv2/42586. 기능개발/README.md) | [기능개발.js](프로그래머스/lv2/42586. 기능개발/기능개발.js) | 리팩토링 필요 📌
 | [올바른 괄호](프로그래머스/lv2/12909. 올바른 괄호/README.md) | [올바른 괄호.js](프로그래머스/lv2/12909. 올바른 괄호/올바른 괄호.js) | 스택
 | [프린터](프로그래머스/lv2/42587. 프린터/README.md) | [프린터.js](프로그래머스/lv2/42587. 프린터/프린터.js) | `some` `findIndex`
+| [최댓값과 최솟값](프로그래머스/lv2/12939. 최댓값과 최솟값/README.md) | [최댓값과 최솟값.js](프로그래머스/lv2/12939. 최댓값과 최솟값/최댓값과 최솟값.js) | max, min 사용지 스프레드 주의
+| [이진 변환 반복하기](프로그래머스/lv2/70129. 이진 변환 반복하기/README.md) | [이진 변환 반복하기.js](프로그래머스/lv2/70129. 이진 변환 반복하기/이진 변환 반복하기.js) | `match` 정규식, 반환 값 주의
+| [피보나치 수](프로그래머스/lv2/12945. 피보나치 수/README.md) | [피보나치 수.js](프로그래머스/lv2/12945. 피보나치 수/피보나치 수.js) | 오버플로우 주의. 미리 나눠서 저장하기
+| [다음 큰 숫자](프로그래머스/lv2/12911. 다음 큰 숫자/README.md) | [다음 큰 숫자.js](프로그래머스/lv2/12911. 다음 큰 숫자/다음 큰 숫자.js) | `match` 정규식, 반환 값 주의
+| [카펫](프로그래머스/lv2/42842. 카펫/README.md) | [카펫.js](프로그래머스/lv2/42842. 카펫/카펫.js) | 약수 판별, 📌
+| [구명보트](프로그래머스/lv2/42885. 구명보트/README.md) | [구명보트.js](프로그래머스/lv2/42885. 구명보트/구명보트.js) | `퀵 정렬` 📌
 
 ### Level 3️⃣
 |문제|문제풀이|비고|
