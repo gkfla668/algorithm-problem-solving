@@ -1,20 +1,11 @@
 function solution(brown, yellow) {
     let num = brown + yellow;
-    let col, row;
     
-    for(let i = 1; i <= num/2; i++){
-        if(num % i === 0){
-            col = i;
-            row = col;
-
-            for(let j = i; j <= num/2; j++){
-                if(num % j === 0){
-                    row = j;
-
-                    if(((row - 2) * (col - 2)) === yellow && row * col === num)
-                        return [row, col];
-                }
-            }
-        }
-    }    
-}
+    for(let col = 3; col <= num / col; col++){ // 세로
+        let row = num / col;
+        
+        // 한줄로 감싸져 있으므로
+        if(((row - 2) * (col - 2)) === yellow)
+            return [row, col];
+    }
+}    
