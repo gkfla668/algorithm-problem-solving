@@ -1,14 +1,12 @@
 function solution(k, tangerine) {   
-    let map = new Map();
-    for(let i = 0; i < tangerine.length; i++)
-        map.set(tangerine[i], (map.get(tangerine[i]) || 0) + 1);
-
-    map = [...map].sort((a, b) => b[1] - a[1]);
+    let obj = {};
+    tangerine.forEach((it) => obj[it] = (obj[it] || 0) + 1); // 중복 갯수
+    let cnt = Object.values(obj).sort((a, b) => b - a); // 갯수 기준 내림차순 정렬
     
     let sum = 0;
-    for(let i = 0; i < map.length; i++){
-        sum += map[i][1];
-        if( sum >= k)
-            return i +1;
+    for(let i = 0; i < cnt.length; i++){
+        sum += cnt[i];
+        if(sum >= k)
+            return i + 1;
     }
 }
