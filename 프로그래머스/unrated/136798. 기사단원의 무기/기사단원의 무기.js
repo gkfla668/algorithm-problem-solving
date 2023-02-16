@@ -1,7 +1,6 @@
 function solution(number, limit, power) {
     var answer = 0;
     let divisorCnt = 1;
-    let divisorCntArr = [];
     
     for(let i = 1; i <= number; i++){
         divisorCnt = 1;
@@ -11,10 +10,8 @@ function solution(number, limit, power) {
                 divisorCnt++;
         }
         
-        divisorCntArr.push(divisorCnt);
+        answer += divisorCnt > limit ? power : divisorCnt;
     }
-    
-    divisorCntArr.map((it) => { answer += it > limit ? power : it });
     
     return answer;
 }
