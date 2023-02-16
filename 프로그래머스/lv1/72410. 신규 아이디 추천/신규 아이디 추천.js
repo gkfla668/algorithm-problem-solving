@@ -8,7 +8,7 @@ function solution(new_id) {
     if(new_id.length === 0) new_id = 'a';  // 5단계 
     
     // 6단계
-    if(new_id.length >= 16) new_id = new_id.slice(0, 15);
+    new_id = new_id.slice(0, 15);
     new_id = new_id.replace(/\.$/g, '') 
     
     // 7단계
