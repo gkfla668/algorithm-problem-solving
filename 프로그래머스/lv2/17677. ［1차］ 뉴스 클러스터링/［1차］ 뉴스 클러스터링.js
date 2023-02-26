@@ -30,7 +30,7 @@ function solution(str1, str2) {
     
     let unionLength = str1Set.length - intersectionLength;
     
-    map.forEach((val, key) => {
+    map.forEach((val) => {
         if(val > 0) unionLength += val;
     })
     
