@@ -3,5 +3,5 @@ function solution(price, money, count) {
     
     while(count-- > 0)totalMoney += count * price;
 
-    return money - totalMoney < 0 ? Math.abs(money - totalMoney) : 0;
+    return money < totalMoney ? Math.abs(money - totalMoney) : 0;
 }
