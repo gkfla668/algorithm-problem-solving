@@ -1,4 +1,4 @@
 function solution(s) {
-    let length = s.length;
-    return length % 2 === 0 ? s.slice((length / 2) - 1, (length / 2) + 1) : s.slice(Math.floor(length / 2), length / 2 + 1);
+    let mid = Math.floor(s.length / 2);
+    return s.length % 2 === 0 ? s.slice(mid - 1, mid + 1) : s[mid];
 }
