@@ -1,8 +1,7 @@
 function solution(s){
-    s = [...s]; // stack
     let basket = [];
 
-    s.forEach((val) => {
+    [...s].forEach((val) => {
         if(basket.length === 0) basket.push(val);
         else val !== basket[basket.length - 1] ? basket.push(val) : basket.pop();
         
