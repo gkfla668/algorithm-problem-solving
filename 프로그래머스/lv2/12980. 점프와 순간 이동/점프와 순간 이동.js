@@ -6,7 +6,9 @@ function solution(n)
         if(n % 2 !== 0){
             min++;
             n--;
-        } else n /= 2;
+            continue;
+        } 
+        n /= 2;
     }
     
     return min;
