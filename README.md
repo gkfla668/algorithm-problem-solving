@@ -47,6 +47,13 @@
 | [수박수박수박수박수박수?](프로그래머스/lv1/12922. 수박수박수박수박수박수？/README.md) | [수박수박수박수박수박수?.js](프로그래머스/lv1/12922. 수박수박수박수박수박수？/수박수박수박수박수박수？.js)
 | [문자열 내림차순으로 배치하기](프로그래머스/lv1/12917. 문자열 내림차순으로 배치하기/README.md) | [문자열 내림차순으로 배치하기.js](프로그래머스/lv1/12917. 문자열 내림차순으로 배치하기/문자열 내림차순으로 배치하기.js) | 문자열 정렬 주의
 
+#### ⛔ 시도했지만 풀지 못한 문제
+* [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+* [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+* [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
+* [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+  
+
 ### Level 2️⃣
 |문제|문제풀이|비고|
 |----|-------|----|
@@ -76,6 +83,12 @@
 | [택배상자](프로그래머스/lv2/131704. 택배상자/README.md) | [택배상자.js](프로그래머스/lv2/131704. 택배상자/택배상자.js) | `stack` 오래걸림 📌
 | [예상 대진표](프로그래머스/lv2/12985. 예상 대진표/README.md) | [예상 대진표.js](프로그래머스/lv2/12985. 예상 대진표/예상 대진표.js)
 | [점프와 순간 이동](프로그래머스/lv2/12980. 점프와 순간 이동/README.md) | [점프와 순간 이동.js](프로그래머스/lv2/12980. 점프와 순간 이동/점프와 순간 이동.js)
+
+#### ⛔ 시도했지만 풀지 못한 문제
+* [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
+* [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
+* [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+* [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
 
 ### Level 3️⃣
 |문제|문제풀이|비고|
