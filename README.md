@@ -52,10 +52,10 @@
 | [콜라 문제](프로그래머스/unrated/132267.%E2%80%85%EC%BD%9C%EB%9D%BC%E2%80%85%EB%AC%B8%EC%A0%9C/README.md)                                            | [콜라 문제.js](프로그래머스/unrated/132267.%E2%80%85%EC%BD%9C%EB%9D%BC%E2%80%85%EB%AC%B8%EC%A0%9C/%EC%BD%9C%EB%9D%BC%E2%80%85%EB%AC%B8%EC%A0%9C.js)                                                                             |
 | [명예의 전당 (1)](프로그래머스/unrated/138477.%E2%80%85%EB%AA%85%EC%98%88%EC%9D%98%E2%80%85%EC%A0%84%EB%8B%B9%E2%80%85%EF%BC%881%EF%BC%89/README.md) | [명예의 전당.js](프로그래머스/unrated/138477.%E2%80%85%EB%AA%85%EC%98%88%EC%9D%98%E2%80%85%EC%A0%84%EB%8B%B9%E2%80%85%EF%BC%881%EF%BC%89/%EB%AA%85%EC%98%88%EC%9D%98%E2%80%85%EC%A0%84%EB%8B%B9%E2%80%85%EF%BC%881%EF%BC%89.js) |
 | [추억 점수](프로그래머스/unrated/176963.%E2%80%85%EC%B6%94%EC%96%B5%E2%80%85%EC%A0%90%EC%88%98/README.md)                                            | [추억 점수.js](프로그래머스/unrated/176963.%E2%80%85%EC%B6%94%EC%96%B5%E2%80%85%EC%A0%90%EC%88%98/%EC%B6%94%EC%96%B5%E2%80%85%EC%A0%90%EC%88%98.js)                                                                             |
+| [숫자 짝꿍](프로그래머스/lv1/131128.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A7%9D%EA%BF%8D/README.md)                                                | [숫자 짝꿍.js](프로그래머스/lv1/131128.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A7%9D%EA%BF%8D/%EC%88%AB%EC%9E%90%E2%80%85%EC%A7%9D%EA%BF%8D.js)                                                                                 | 📌 다시 한번 보기                            |
 
 #### ⛔ 시도했지만 풀지 못한 문제
 
-- [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
