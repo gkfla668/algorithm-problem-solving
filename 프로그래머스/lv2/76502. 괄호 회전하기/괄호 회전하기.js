@@ -1,9 +1,6 @@
 function solution(s) {
     var answer = 0;
-    let map = new Map();
-    map.set('(', ')');
-    map.set('[', ']');
-    map.set('{', '}');
+    let mapping = { "{" : "}", "[" : "]", "(" : ")"};
     
     for(let i = 0; i < s.length; i++){
         let start = [];
@@ -15,7 +12,7 @@ function solution(s) {
                 start.push(ch);
             else {
                 let tmp = start.pop()
-                if(target !== map.get(tmp)) start.push(tmp);
+                if(target !== mapping[tmp]) start.push(tmp);
             }
         })
         
