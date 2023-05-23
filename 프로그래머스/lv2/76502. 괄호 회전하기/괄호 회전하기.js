@@ -4,7 +4,6 @@ function solution(s) {
     
     for(let i = 0; i < s.length; i++){
         let start = [];
-        
         s = s.slice(1, s.length) + s.slice(0, 1);
         [...s].forEach((ch) => {
             let target = ch;
