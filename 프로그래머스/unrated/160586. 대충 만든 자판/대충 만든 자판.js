@@ -5,17 +5,17 @@ function solution(keymap, targets) {
         let cnt = 0; 
         
         [...target].forEach((ch) => { 
-            let min = 1000;
+            let arr = [];
             
             keymap.forEach((key) => {
-                if([...key].includes(ch) && [...key].indexOf(ch) < min) min = [...key].indexOf(ch);
+                if([...key].includes(ch)) arr.push([...key].indexOf(ch) + 1);
             }) 
             
-            cnt += min + 1;
+            cnt += arr.length > 0 ? Math.min(...arr) : Number.MAX_VALUE;
         })
         
-        if(cnt > 1000) answer.push(-1)
-        else answer.push(cnt)
+        cnt >= Number.MAX_VALUE ? answer.push(-1) : answer.push(cnt)
     })
+    
     return answer;
 }
