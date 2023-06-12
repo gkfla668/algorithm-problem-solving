@@ -56,6 +56,8 @@
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
 
+---
+
 ### Level 2️⃣
 
 | 문제                                                                                                                                                                                | 문제풀이                                                                                                                                                                                                                                                                                     | 비고                                  |
@@ -95,6 +97,8 @@
 - [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+
+---
 
 ### Level 3️⃣
 
