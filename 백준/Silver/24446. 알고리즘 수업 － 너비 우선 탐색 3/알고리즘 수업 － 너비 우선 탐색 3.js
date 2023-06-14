@@ -3,7 +3,7 @@ const input = fs.readFileSync("/dev/stdin").toString().trim().split("\n");
 const [N, M, R] = input.shift().split(" ").map(Number);
 
 let graph = [...new Array(N + 1)].map(() => []);
-let visited = new Array(N).fill(-1);
+let depth = new Array(N + 1).fill(-1);
 
 input.forEach((v) => {
   let [start, end] = v.split(" ").map(Number);
@@ -12,19 +12,19 @@ input.forEach((v) => {
   graph[end].push(start);
 });
 
-graph.map((e) => e.sort((a, b) => a - b));
+graph.map((sibling) => sibling.sort((a, b) => a - b));
 
-const BFS = (start) => {
-  let queue = [];
-  queue.push(start);
-  visited[start - 1] = 0;
+const BFS = (root) => {
+  let queue = [root];
+  depth[root] = 0;
 
   while (queue.length > 0) {
-    let cur = queue.shift();
-    for (let end of graph[cur]) {
-      if (visited[end - 1] === -1) {
-        visited[end - 1] = visited[cur - 1] + 1;
-        queue.push(end);
+    let parent = queue.shift();
+
+    for (let child of graph[parent]) {
+      if (depth[child] === -1) {
+        depth[child] = depth[parent] + 1; // 부모에서 depth 하나 차이
+        queue.push(child);
       }
     }
   }
@@ -32,4 +32,4 @@ const BFS = (start) => {
 
 BFS(R);
 
-console.log(visited.join("\n"));
+console.log(depth.slice(1).join("\n"));
