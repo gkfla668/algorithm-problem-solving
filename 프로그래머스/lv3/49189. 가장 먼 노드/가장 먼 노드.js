@@ -1,24 +1,23 @@
 function solution(n, edge) {
-    var answer = 0;
     let arr = [...new Array(n + 1)].map(() => [])
-    let visited = new Array(n + 1).fill(-1);
+    let depth = new Array(n + 1).fill(-1);
     
     edge.forEach(([start, end]) => {
         arr[start].push(end)
         arr[end].push(start);
     })
 
-    visited[1] = 0;
+    depth[1] = 0;
     
     const BFS = (start) => {
         let queue = [start];
         
         while(queue.length > 0){
-            let x = queue.shift();
+            let cur = queue.shift();
             
-            for(let num of arr[x]){
-                if(visited[num] === -1){
-                    visited[num] = visited[x] + 1;
+            for(let num of arr[cur]){
+                if(depth[num] === -1){
+                    depth[num] = depth[cur] + 1;
                     queue.push(num)
                 }
             } 
@@ -26,6 +25,6 @@ function solution(n, edge) {
     }
 
     BFS(1);
-    let max = Math.max.apply(null, visited);
-    return visited.filter((v) => v === max).length;
+    let max = Math.max.apply(null, depth);
+    return depth.filter((v) => v === max).length;
 }
