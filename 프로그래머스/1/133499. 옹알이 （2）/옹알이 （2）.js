@@ -11,7 +11,6 @@ function solution(babbling) {
             str = str.replaceAll(arr[j], " ");
         }
         
-        console.log(str)
         if(str.replaceAll(" ", "").length === 0) answer++;
     }
     
