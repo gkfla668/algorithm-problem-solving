@@ -25,27 +25,21 @@ function solution(friends, gifts) {
         for(let j = 0; j < friends.length; j++){
             if(i === j) continue; 
             
-            console.log(`${i}번이랑 ${j}번이랑 시작\n`)
-            console.log(`${i}번이 준거 ${arr[i][j]},${j}번이 준거 ${arr[j][i]}`)
-            
             // A > B 이면 다음달 A가 받음
-            if(arr[i][j] > arr[j][i]) {
-                answer[i]++;
-                console.log(`${i}번이 ${j}에게 받습니다.\n`)
-            } else if (arr[i][j] < arr[j][i]) { // A < B 이면 다음달 B가 받음
-                answer[j]++;
-                console.log(`${j}번이 ${i}에게 받습니다.\n`)
-            } else if(arr[i][j] >= 0 && arr[i][j] === arr[j][i] || arr[i][j] === 0 && arr[j][i] === 0){ // A == B 이거나 0이면
+            if(arr[i][j] > arr[j][i]) answer[i]++;
+            // A < B 이면 다음달 B가 받음
+            else if (arr[i][j] < arr[j][i]) answer[j]++;
+            else if(arr[i][j] >= 0 && arr[i][j] === arr[j][i] || arr[i][j] === 0 && arr[j][i] === 0){ // A == B 이거나 0이면
                 // 선물지수가 더 큰 사람이 받음
-                 console.log(`${i}번의 선물지수는 ${score[i]}, ${j}번의 선물 지수는 ${score[j]}\n`)
                 if(score[i] > score[j]) answer[i]++; 
                 else if(score[i] < score[j]) answer[j]++; 
             }
             
+            // 이미 처리
             arr[i][j] = -1;
             arr[j][i] = -1;
         }
     }
     
-    return answer.sort((a, b) => b - a)[0];
+    return Math.max(...answer);
 }
