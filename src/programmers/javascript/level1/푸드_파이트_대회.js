@@ -1,6 +1,7 @@
 function solution(food) {
-    var answer = '';
-    
+    let answer = '';
+
+    // food[0]은 수웅이가 준비한 물의 양이며, 항상 1이므로 i는 1부터 시작
     for(let i = 1; i < food.length; i++){
         answer += i.toString().repeat(Math.trunc(food[i] / 2));
     }
