@@ -1,3 +1,5 @@
+//BFS
+// 인접한 노드를 먼저 탐색하는 방식
 function solution(maps) {
   const dx = [0, 0, 1, -1];
   const dy = [1, -1, 0, 0];
