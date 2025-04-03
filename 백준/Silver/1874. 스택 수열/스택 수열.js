@@ -8,12 +8,9 @@ let stack = [];
 let answer = [];
 
 for (let num of arr) {
-  if (num >= pushStart) {
-    for (let i = pushStart; i <= num; i++) {
-      stack.push(i);
-      answer.push("+");
-    }
-    pushStart = num + 1;
+  while (pushStart <= num) {
+    stack.push(pushStart++);
+    answer.push("+");
   }
 
   if (stack.pop() === num) {
@@ -24,3 +21,4 @@ for (let num of arr) {
 }
 
 console.log(answer.join("\n"));
+
