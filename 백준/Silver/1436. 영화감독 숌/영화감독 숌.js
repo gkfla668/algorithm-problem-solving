@@ -6,13 +6,9 @@ let N = Number(input[0]);
 let num = 666;
 let cnt = 0;
 
-while (true) {
-  if (num.toString().includes("666")) {
-    cnt++;
-    if (cnt === N) {
-      console.log(num);
-      break;
-    }
-  }
+while (cnt < N) {
+  if (num.toString().includes("666")) cnt++;
   num++;
 }
+console.log(num - 1);
+
